@@ -1,2 +1,2 @@
-# second-react-project
+# number-generator-with-react
  
